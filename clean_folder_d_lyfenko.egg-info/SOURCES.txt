@@ -1,0 +1,8 @@
+setup.py
+clean_folder_d_lyfenko/__init__.py
+clean_folder_d_lyfenko/clean.py
+clean_folder_d_lyfenko.egg-info/PKG-INFO
+clean_folder_d_lyfenko.egg-info/SOURCES.txt
+clean_folder_d_lyfenko.egg-info/dependency_links.txt
+clean_folder_d_lyfenko.egg-info/entry_points.txt
+clean_folder_d_lyfenko.egg-info/top_level.txt
